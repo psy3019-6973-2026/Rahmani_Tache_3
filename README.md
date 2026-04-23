@@ -124,8 +124,10 @@ Use `invoke --list` or `invoke --help <task>` for descriptions and usage.
 Submit an issue or PR on [`airoh`](https://github.com/SIMEXP/airoh).
 
 ---
-<img width="170" height="77" alt="image" src="https://github.com/user-attachments/assets/98185aa5-be64-4b19-8db4-05de6fd4f5c7" />
 
 ## Philosophy
 
 Inspired by Uncle Iroh from *Avatar: The Last Airbender*, `airoh` aims to bring simplicity, reusability, and clarity to research infrastructure — one well-structured task at a time. It is meant to support a concrete implementation of the [YODA principles](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html).
+
+La réalisation de la tâche 3 a été assisté par l'ia
+<img width="170" height="77" alt="image" src="https://github.com/user-attachments/assets/98185aa5-be64-4b19-8db4-05de6fd4f5c7" />
