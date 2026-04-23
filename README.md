@@ -124,6 +124,7 @@ Use `invoke --list` or `invoke --help <task>` for descriptions and usage.
 Submit an issue or PR on [`airoh`](https://github.com/SIMEXP/airoh).
 
 ---
+<img width="170" height="77" alt="image" src="https://github.com/user-attachments/assets/98185aa5-be64-4b19-8db4-05de6fd4f5c7" />
 
 ## Philosophy
 
